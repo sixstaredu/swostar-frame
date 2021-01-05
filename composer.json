@@ -1,6 +1,7 @@
 {
     "name": "sixstaredu/swostar-frame",
     "description": "A simplified version of the swoole framework",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
