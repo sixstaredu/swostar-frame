@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "sixstaredu/swostar": "master-dev"
+        "sixstaredu/swostar": "v1.0.0"
     },
     "autoload": {
         "psr-4": {
