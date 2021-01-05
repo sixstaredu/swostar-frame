@@ -1,0 +1,19 @@
+{
+    "name": "sixstaredu/swostar-frame",
+    "description": "A simplified version of the swoole framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shineyork",
+            "email": "shineyork@sixstaredu.com"
+        }
+    ],
+    "require": {
+        "sixstaredu/swostar": "master-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
